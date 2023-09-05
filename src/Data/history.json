@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Associate Consultant",
+      "organisation": "TCS",
+      "startDate": "Feb, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on UI testing for manual and automation, Switched to React development."],
+      "imageSrc": "history/TCS.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "Mirosoft",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "../assets/history/Acenture.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Netflix",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
